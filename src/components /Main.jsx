@@ -6,7 +6,7 @@ function Main() {
                 <div>
                     <div className="min-h-screen w-screen flex flex-col items-start justify-center">
                         <h1 className="text-left text-6xl text-gray-800 mt-100 mb-8">Date Invitation</h1>
-                        <h3 className="text-left text-4xl text-gray-500 mb-5">Суббота, 24 июля | Проспект Абылай хана, 71</h3>
+                        <h3 className="text-left text-4xl text-gray-500 mb-5">Суббота, 24 июня | Проспект Абылай хана, 71</h3>
                     </div>
                 </div>
 
