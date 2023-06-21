@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.full-screen {
+    @apply min-h-screen w-screen
+}
