@@ -5,8 +5,9 @@ function Main() {
             <main className="py-6 bg-gray-100">
                 <div>
                     <div className="min-h-screen w-screen flex flex-col items-start justify-center">
-                        <h1 className="text-left text-6xl text-gray-800 mt-100 mb-8">Date Invitation</h1>
-                        <h3 className="text-left text-4xl text-gray-500 mb-5">Суббота, 24 июня | Проспект Абылай хана, 71</h3>
+                        <h1 className="text-left text-6xl text-gray-800 mt-100 mb-8">Date Invitation. 2nd try</h1>
+                        <h3 className="text-left text-4xl text-gray-500 mb-5">Hope you will not dump me again :) </h3>
+                        <h4 className="text-left text-4xl text-gray-500 mb-5">Any time that works for you, prefertably on Saturday</h4>
                     </div>
                 </div>
 
@@ -17,38 +18,25 @@ function Main() {
                     <div className="mt-8 rounded shadow-md">
                         <div className="bg-white">
                             <div className="ml-6">
-                                <h3 className="font-bold text-2xl mb-4 border-b border-gray-200">Wine Tasting</h3>
-                                <h4 className="font-semibold">Место проведения: ​Проспект Абылай хана, 71</h4>
-                                <h4 className="font-semibold mb-10">Время: 19:00 </h4>
-
-                                <p>Вечер начнется с дегустации вин от Arba Wine. Было написано, что нам будут предложены 3 белых вина, а именно </p>
-
-                                <ul className="list-disc mt-6 ml-6">
-                                    <li>Altyn Arba Chardonnay, 2018 </li>
-                                    <li>Sary Arba Rkatsiteli, 2016</li>
-                                    <li>Ak Arba Kazakh Riesling, 2016</li>
-                                </ul>
-
-                                <p className="mt-6 mb-4"> и 3 красных вина </p>
-
-                                <ul className="list-disc ml-6">
-                                    <li>Pinot Arba Kazakh Pinot Noir, 2016 </li>
-                                    <li>PinoSape, 2015</li>
-                                    <li>Kyzyl Arba Cabernet Franc, 2015 </li>
-                                </ul>
+                                <h3 className="font-bold text-2xl mb-4 border-b border-gray-200">Котокафе Solo Almaty</h3>
+                                <h4 className="font-semibold">Место проведения: ​Улица Казыбек би, 85 </h4>
+                                <h4 className="font-semibold mb-4">Время: 17:00 </h4>
+                                <p>Уютное времяпрепровождение с более чем 10 разными кошками. Мы сможем выпить зеленого чая и перекусить, играя с кошками. Лично я хочу поиграть с Эсси, она выглядит очень мило.</p>
+                                <p>Больше информации вы можете найти по <b className="text-sky-600"><a href="https://www.instagram.com/solo_catcafe_almaty/?hl=en">ссылке </a> </b></p>
                             </div>
 
                         </div>
                     </div>
 
-                    {/* Arba Wine */}
                     <div className="mt-8 rounded shadow-md">
                         <div className="bg-white">
                             <div className="ml-6">
-                                <h3 className="font-bold text-2xl mb-4 border-b border-gray-200">Свидание</h3>
-                                <h4 className="font-semibold">Место проведения: ​Проспект Абылай хана, 71</h4>
-                                <h4 className="font-semibold mb-2">Время: 20:00 </h4>
-                                <p>Вечер продолжится качественным отдыхом, в первую очередь за белым вином и сыром. Мы обсудим политику, любимые книги и взгляды на жизнь, а самое главное хорошие шутки с моей стороны.
+                                <h3 className="font-bold text-2xl mb-4 border-b border-gray-200">Пацацина</h3>
+                                <h4 className="font-semibold">Место проведения: ​Достык, 42</h4>
+                                <h4 className="font-semibold mb-2">Время: 18:30 </h4>
+                                <p>Основное свидание состоится в Пацацине
+
+                                    Это небольшое место, которым, насколько я знаю, управляет одна семья. У них отличное домашнее грузинское вино и очень вкусные хинкали.
                                 </p>
                             </div>
 
@@ -62,7 +50,7 @@ function Main() {
                             <div className="ml-6">
                                 <h3 className="font-bold text-2xl mb-4 border-b border-gray-200">*Прогулка (Optional)</h3>
                                 <h4 className="font-semibold">Место проведения: Парк им. 28 гвардейцев-панфиловцев</h4>
-                                <h4 className="font-semibold mb-4">Время: 22:00 </h4>
+                                <h4 className="font-semibold mb-4">Время: 20:00 </h4>
 
                                 <p>В зависимости от погодных условий, мы можем пойти на прогулку в парк. Обязательно прослушивание песен группы Валентин Стрыкало и Земфиры
                                 </p>
@@ -81,7 +69,7 @@ function Main() {
                                 </h3>
                                 <h4 className="font-semibold">Место проведения: -
                                 </h4>
-                                <h4 className="font-semibold mb-2">Время: 23:00
+                                <h4 className="font-semibold mb-2">Время: 22:00
                                 </h4>
 
                                 <p>После вечера я провожу вас домой, и мы обсудим время нашей следующей встречи.
